@@ -216,7 +216,6 @@ if({name: "Yehuda Katz"}){
 
 
 // 29.
-
 if(new Date()){
 	console.log("True!");
 } else {
